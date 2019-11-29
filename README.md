@@ -12,6 +12,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+### Extra
+this form is tested with dummy apis so to check the functionality, used the same credentials to register and login.
+you can use your apis, all you need to do is, replace the api url and keep attention to the keys as in the api.
+
+link of dummy api used is : https://reqres.in/
+
+login credentials:   email   : eve.holt@reqres.in
+                     password: cityslicka
+
+registration credentials:  email     : eve.holt@reqres.in
+                           password  : pistol
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
@@ -66,3 +78,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+
